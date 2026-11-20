@@ -1,0 +1,4 @@
+{
+   "payload": "{\"v\":1,\"app\":\"ebplayer\",\"seq\":1795162142,\"issued\":1795162142,\"expires\":1826698142,\"servers\":[\"https://ebplayer.com\"],\"configUrls\":[]}",
+   "sig": "MEQCIGM6Cq+XzpMJuuTke4AA3mY/vlekHrldM0G8IL4lSBI3AiBVJZU+iCgLiw/CdoWOk07rHw/8vg9+H4x/aEqo8GIeiA=="
+}
